@@ -8,5 +8,5 @@ Files come from the following sources:
 - [Wikipedia Article on GeoJSON](https://en.wikipedia.org/wiki/GeoJSON)
 - [Union of the ESRI Country shapefile and the Exclusive Economic Zones](https://marineregions.org/sources.php#unioneezcountry) - New Zealand polygons extracted and converted to GeoJSON from the original Shapefile using [QGIS](https://qgis.org)
 
-# Full Citations
+### full citations
 Flanders Marine Institute (2020). Union of the ESRI Country shapefile and the Exclusive Economic Zones (version 3). Available online at https://www.marineregions.org/. https://doi.org/10.14284/403.
